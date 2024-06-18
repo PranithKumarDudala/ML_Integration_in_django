@@ -1,1 +1,2 @@
-# ML_Integration_in_django
+#ML integration in django
+Developed a machine learning model usign iris dataset
